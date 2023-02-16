@@ -50,6 +50,7 @@
 
 <div align="center">
   <br>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DjonyCooper&theme=chartreuse-dark&hide_border=true&border_radius=0&locale=ru)](https://git.io/streak-stats)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DjonyCooper&theme=chartreuse-dark&hide_border=true&border_radius=0&locale=ru)](https://git.io/streak-stats)
  
  </div></h2>
