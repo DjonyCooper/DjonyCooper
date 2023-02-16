@@ -11,9 +11,11 @@
   <a href="https://vk.com/mr.scorp">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
   </a>
-   </a>
   <a href="https://giphy.com/channel/DjonyCooper">
     <img src="https://img.shields.io/badge/GIPHY-yellow?style=for-the-badge&logo=giphy&logoColor=white" alt="GIPHY Badge"/>
+  </a>
+  <a href="https://giphy.com/channel/DjonyCooper">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=DjonyCooper&style=plastic&color=blue" alt=""/>
@@ -30,7 +32,6 @@
 - 👋 Hi, I’m @DjonyCooper
 - 👀 I’m interested in create GUI in Python 3, PowerShell
 - 🌱 I’m currently learning Developer. Programmer. Digital professions for GeekBrains (https://gb.ru).
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in Email: shampenyon@gmail.com, or my telegram @DjonyCooper
 
 ### :hammer_and_wrench: Languages and Tools :
