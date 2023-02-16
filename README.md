@@ -34,9 +34,9 @@
 - 🌱 I’m currently learning Developer. Programmer. Digital professions for GeekBrains (https://gb.ru).
 - 📫 How to reach me in Email: shampenyon@gmail.com, or my telegram @DjonyCooper
 
-<h1 align="center">
-### :hammer_and_wrench: Языки и Инструменты (Languages and Tools) :
-</h1>
+<h2 align="center">
+:hammer_and_wrench: Языки и Инструменты (Languages and Tools) :
+</h2>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
@@ -47,7 +47,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: Моя статистика (My Stats) :
+<h2 align="center">
+:fire: Моя статистика (My Stats) :
+</h2>
 <div id="stats" align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DjonyCooper&theme=neon-dark&hide_border=true&border_radius=0&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
