@@ -29,10 +29,7 @@
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif"/>
 </h1></br>
 
-- 👋 Hi, I’m @DjonyCooper
-- 👀 I’m interested in create GUI in Python 3, PowerShell
-- 🌱 I’m currently learning Developer. Programmer. Digital professions for GeekBrains (https://gb.ru).
-- 📫 How to reach me in Email: shampenyon@gmail.com, or my telegram @DjonyCooper
+
 
 <h2 align="center">
 :hammer_and_wrench: Языки и Инструменты (Languages and Tools) :
