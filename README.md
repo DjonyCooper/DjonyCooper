@@ -24,9 +24,9 @@
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI3ZWU5NGVlYmQyN2I4ZWU2NTY1Y2QzOGFlYWI0Y2FjNjk4MDhjMiZjdD1n/VWN6ejOeGfl00Td0vL/giphy.gif" height="60" width="340"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZhMTliMTIxZjI2NWIzMGNkMTViYTdlZDAwZDcxNDdiZGI3ODdiZiZjdD1n/4uqbwKIesj7wbxjbfe/giphy.gif" height="60" width="500"/>
-<br>
+</h1>
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif"/>
-</h1></br>
+
 <h2 align="center">
 :hammer_and_wrench: Языки и Инструменты (Languages and Tools) :
 </h2>
