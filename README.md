@@ -13,7 +13,7 @@
   </a>
    </a>
   <a href="https://giphy.com/channel/DjonyCooper">
-    <img src="https://img.shields.io/badge/GIPHY-blue?style=for-the-badge&logo=giphy&logoColor=white" alt="GIPHY Badge"/>
+    <img src="https://img.shields.io/badge/GIPHY-yellow?style=for-the-badge&logo=giphy&logoColor=white" alt="GIPHY Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=DjonyCooper&style=plastic&color=blue" alt=""/>
