@@ -20,7 +20,7 @@
   </br>
 </div>
 
-<h1 align="center" font [color="00000"] [face="Arial"] [size="30"]>>
+<h1 align="center" font [color="000000"] [face="Arial"] [size="30"]>>
   Приветствую тебя друг в моём профиле!
 <br>
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif"/>
