@@ -24,15 +24,12 @@
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI3ZWU5NGVlYmQyN2I4ZWU2NTY1Y2QzOGFlYWI0Y2FjNjk4MDhjMiZjdD1n/VWN6ejOeGfl00Td0vL/giphy.gif" height="60" width="340"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZhMTliMTIxZjI2NWIzMGNkMTViYTdlZDAwZDcxNDdiZGI3ODdiZiZjdD1n/4uqbwKIesj7wbxjbfe/giphy.gif" height="60" width="500"/>
-
 <br>
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif"/>
 </h1></br>
-
 <h2 align="center">
 :hammer_and_wrench: Языки и Инструменты (Languages and Tools) :
 </h2>
-<br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
@@ -41,8 +38,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="PremierePro" alt="PremierePro" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div></br>
-
+</div>
+<br>
 <h2 align="center">
 :fire: Моя статистика (My Stats) :
 </h2>
