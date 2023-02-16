@@ -34,8 +34,9 @@
 - 🌱 I’m currently learning Developer. Programmer. Digital professions for GeekBrains (https://gb.ru).
 - 📫 How to reach me in Email: shampenyon@gmail.com, or my telegram @DjonyCooper
 
-### :hammer_and_wrench: Языки и Инструменты (Languages and Tools) :
 <div align="center">
+### :hammer_and_wrench: Языки и Инструменты (Languages and Tools) :
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
