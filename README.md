@@ -11,8 +11,8 @@
   <a href="https://vk.com/mr.scorp">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=DjonyCooper&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=DjonyCooper&style=flat-square&color=blue" alt="" align="center"/>
 
 - 👋 Hi, I’m @DjonyCooper
 - 👀 I’m interested in create GUI in Python 3, PowerShell
