@@ -32,7 +32,7 @@
 <h2 align="center">
 :hammer_and_wrench: Языки и Инструменты (Languages and Tools) :
 
-<div align="center" br>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
@@ -41,12 +41,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div></h2>
-<br>
+
+
 <h2 align="center">
 :fire: Моя статистика (My Stats) :
-</h2>
+
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DjonyCooper&theme=chartreuse-dark&hide_border=true&border_radius=0&locale=ru)](https://git.io/streak-stats)
  
- </div>
+ </div></h2>
