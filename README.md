@@ -21,7 +21,7 @@
 </div>
 
 <h1 align="center">
-<font color="red" size="40">Привет друг! || Hi, Friend!</font>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4OTkwYWYxYjZhZTRmYjE1MWRmMjNhMmVhZDQwY2EzMGIwM2Q5ZSZjdD1n/e3RtNjEQUlYxw7KWvO/giphy.gif"/>
 <br>
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif"/>
 </h1></br>
