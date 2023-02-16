@@ -44,3 +44,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DjonyCooper&theme=neon-dark&hide_border=true&border_radius=0&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
