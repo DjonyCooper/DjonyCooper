@@ -20,11 +20,11 @@
   </br>
 </div>
 
-<h0>
+<h1 align="center">
   Приветствую тебя друг в моём профиле!
 <br>
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif"/>
-</h0></br>
+</h1></br>
 
 - 👋 Hi, I’m @DjonyCooper
 - 👀 I’m interested in create GUI in Python 3, PowerShell
