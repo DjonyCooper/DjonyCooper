@@ -50,6 +50,6 @@
 <h2 align="center">
 :fire: Моя статистика (My Stats) :
 </h2>
-<div id="stats" align="center">
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DjonyCooper&theme=neon-dark&hide_border=true&border_radius=0&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
