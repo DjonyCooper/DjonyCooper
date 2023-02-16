@@ -20,7 +20,8 @@
   </br>
 </div>
 
-<h1 align="center" font [color="000000"] [face="Arial"] [size="30"]>
+<h1 align="center">
+<font color="red" size="4">Красный шрифт большего размера</font>
   Приветствую тебя друг в моём профиле!
 </font>
 <br>
