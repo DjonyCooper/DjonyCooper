@@ -21,9 +21,7 @@
 </div>
 
 <h1 align="center">
-<font color="red" size="4">Красный шрифт большего размера</font>
-  Приветствую тебя друг в моём профиле!
-</font>
+<font color="red" size="40">Привет друг! || Hi, Friend!</font>
 <br>
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif"/>
 </h1></br>
