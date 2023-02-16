@@ -14,7 +14,7 @@
   <a href="https://giphy.com/channel/DjonyCooper">
     <img src="https://img.shields.io/badge/GIPHY-yellow?style=for-the-badge&logo=giphy&logoColor=white" alt="GIPHY Badge"/>
   </a>
-  <a href=«mailto:shampenyon@gmail.com?subject=Сообщение%20с%20Github&body>
+  <a href="mailto:shampenyon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <br>
