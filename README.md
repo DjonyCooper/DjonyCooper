@@ -21,7 +21,8 @@
 </div>
 
 <h1 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVjNWRlYWZlNjA0NDAwYWE5ZTVkZTg1ZGRjOTE5YTdjMDJiYjJhOSZjdD1n/HgYwTDWrPILELjjsp8/giphy.gif" width="1000"/>
+<div style="width:100%;height:0;padding-bottom:4%;position:relative;"><iframe src="https://giphy.com/embed/8ZQ3kC7qdfoscvFSGs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/8ZQ3kC7qdfoscvFSGs">via GIPHY</a></p>
+
 <br>
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif"/>
 </h1></br>
